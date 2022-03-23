@@ -1,0 +1,15 @@
+{
+    "colors": {
+        "primary": "#022c6f",
+        "secondary": "#12a0d5",
+        "third": "#ff601a",
+        "info": "#f7b837",
+        "danger": "#c1121f",
+        "win": "#2dc653",
+        "muted": "#9DA0A4",
+        "dark": "#000000",
+        "light": "#ffffff",
+        "halfLight": "#f5f5f5",
+        "lightMuted": "#e5e5e5"
+    }
+}

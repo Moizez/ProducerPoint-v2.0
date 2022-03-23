@@ -1,0 +1,11 @@
+const types = {
+	SET_REDUCER: '@storageless/SET_REDUCER',
+
+	OPEN_ALERT: '@storageless/OPEN_ALERT',
+	CLOSE_ALERT: '@storageless/CLOSE_ALERT',
+
+	GET_CONFRONTATIONS_SCHEDULED: '@storageless/GET_CONFRONTATIONS_SCHEDULED',
+	GET_CONFRONTATIONS_FINISHED: '@storageless/GET_CONFRONTATIONS_FINISHED',
+};
+
+export default types;
